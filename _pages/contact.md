@@ -12,8 +12,7 @@ redirect_from:
 ### Postal address
 <address>
 Lamont-Doherty Earth Observatory<br />
-61 Rte 9W, Palisades, New York 10964<br />
-</address><br />
+61 Rte 9W, Palisades, New York 10964<br /> </address><br />
 
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;hs3277 [at] columbia [dot] edu<br />
 <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">https://ocean-transport.github.io/people.html</a><br />
