@@ -8,13 +8,13 @@
 # Site Settings
 #remote_theme             : "mmistakes/minimal-mistakes@4.20.1"
 locale                   : "en-US"
-title                    : "JULIUS GARBE" # site title
+title                    : "HILLARY A. SCANNELL" # site title
 title_separator          : "&#124;"
-name                     : &name "Julius Garbe"
-description              : &description "PhD candidate at the University of Potsdam and polar climate scientist at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany." # used predominantly in meta descriptions for improving SEO
-url                      : "https://juliusgarbe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hillary Scannell"
+description              : &description "Postdoctoral Research Scientist" # used predominantly in meta descriptions for improving SEO
+url                      : "https://hscannell.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juliusgarbe/juliusgarbe.github.io"
+repository               : "hscannell/hscannell.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "juliusgarbe"
+  username               : &twitter "HillaryScannell"
 facebook:
   username               :
   app_id                 :
