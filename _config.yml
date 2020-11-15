@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "HILLARY A. SCANNELL" # site title
 title_separator          : "&#124;"
-name                     : &name "Hillary Scannell"
+name                     : &name "Hillary Scannell, PhD"
 description              : &description "Postdoctoral Research Scientist" # used predominantly in meta descriptions for improving SEO
 url                      : "https://hscannell.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
