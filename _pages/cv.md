@@ -17,7 +17,8 @@ redirect_from:
 
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
-## Education
+
+## Education 
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
 **MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
@@ -48,6 +49,7 @@ redirect_from:
 **Climate Change Research Center, University of New South Wales, Sydney, Australia**<br />
 *Visiting Research Fellow (June-Aug. 2014)*
 
+
 ## Awards
 **2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
 **2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
@@ -59,6 +61,7 @@ redirect_from:
 **2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
 **2012** John H. Dearborn Scientific Diving Scholarship<br />
 
+
 ## Service, Leadership, and Community Engagement
 
 - Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
@@ -69,6 +72,7 @@ redirect_from:
 - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
 - Contributing Author, Oceanbites, https://oceanbites.org,  **2014-2015**   
 - Reviewer: Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate
+
 
 ## Publications
 Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted; https://doi.org/10.1029/2020GL090548
