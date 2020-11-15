@@ -26,43 +26,38 @@ redirect_from:
 
 
 ## Relevant Research Positions
-School of Oceanography, University of Washington, Seattle, WA<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
+**Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY**<br />
+*Postdoctoral Research Scientist (November 2020 – present)*
 
-National Center for Atmospheric Research, Boulder, CO<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Graduate Visitor, CISL & CGD (Mar.-June 2020)*
+**School of Oceanography, University of Washington, Seattle, WA**<br />
+*Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
 
-Tableau Software, Seattle, WA<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Research Intern (June-Aug. 2018)*
+**National Center for Atmospheric Research, Boulder, CO**<br />
+*Graduate Visitor, CISL & CGD (Mar.-June 2020)*
 
-NOAA/Pacific Marine Environmental Laboratory, Seattle, WA<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Graduate Research Assistant (Sept. 2015-Dec. 2017)*
+**Tableau Software, Seattle, WA**<br /> 
+*Research Intern (June-Aug. 2018)*
 
-Gulf of Maine Research Institute, Portland, ME<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Research Intern (June-Aug. 2013)*
+**NOAA/Pacific Marine Environmental Laboratory, Seattle, WA**<br />
+*Graduate Research Assistant (Sept. 2015-Dec. 2017)*
 
-Climate Change Research Center, University of New South Wales, Sydney, Australia<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Visiting Research Fellow (June-Aug. 2014)*
+**Gulf of Maine Research Institute, Portland, ME**<br />
+*Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
+*Research Intern (June-Aug. 2013)*
+
+**Climate Change Research Center, University of New South Wales, Sydney, Australia**<br />
+*Visiting Research Fellow (June-Aug. 2014)*
 
 ## Awards
-**2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft 
-
-**2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship
-
-**2019** University of Washington College of the Environment Student Travel Award
-
-**2018/19** Microsoft AI for Earth Azure Compute Grant
-
-**2018** Integral Consulting Inc. Environmental Big Data Research Award
-
-**2017** The New York Times Asia-Pacific Case Competition Winner
-
-**2015/16** University of Washington Program on Climate Change Graduate Fellowship
-
-**2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship
-
-**2012** John H. Dearborn Scientific Diving Scholarship
+**2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
+**2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
+**2019** University of Washington College of the Environment Student Travel Award<br />
+**2018/19** Microsoft AI for Earth Azure Compute Grant<br />
+**2018** Integral Consulting Inc. Environmental Big Data Research Award<br />
+**2017** The New York Times Asia-Pacific Case Competition Winner<br />
+**2015/16** University of Washington Program on Climate Change Graduate Fellowship<br />
+**2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
+**2012** John H. Dearborn Scientific Diving Scholarship<br />
 
 ## Service, Leadership, and Community Engagement
 
@@ -103,8 +98,7 @@ Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E.
 **Outdoor School Instructor/Guide**, REI, Seattle, WA (May 2019- Feb 2020)
   - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
 
-**Teaching Assistant**
-
+**Teaching Assistant** 
 *School of Oceanography, University of Washington, Seattle, WA*
   - Introduction to Oceanography Lab (2019)
   - Physics Across Oceanography: Fluid Mechanics and Waves (2018)
