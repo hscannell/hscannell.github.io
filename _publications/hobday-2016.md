@@ -2,7 +2,7 @@
 title: "A hierarchical approach to defining marine heatwave"
 collection: publications
 permalink: /publications/hobday-2016
-citation: "Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, <b>H. A. Scannell</b>, A. Sen Gupta and T. Wernberg (2016), A hierarchical approach to defining marine heatwaves, <i>Prog. Oceanogr.</i>, 141: 227-238, DOI: <a href='https://doi.org/10.1016/j.pocean.2015.12.01'>10.1016/j.pocean.2015.12.01</a>"
+citation: "Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, <b>H. A. Scannell</b>, A. Sen Gupta and T. Wernberg (2016), A hierarchical approach to defining marine heatwaves, <i>Prog. Oceanogr.</i>, 141: 227-238, DOI: <a href='https://doi.org/10.1016/j.pocean.2015.12.0141'>10.1016/j.pocean.2015.12.0141</a>"
 
 date: 2016-01-06
 venue: 'Progress in Oceanography'
