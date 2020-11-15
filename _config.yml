@@ -83,26 +83,26 @@ analytics:
 author:
   name             : *name # sidebar name
   avatar           : "profile.png"
-  bio              : "PhD candidate and researcher at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany." # sidebar bio
-  location         : "Potsdam, Germany"
+  bio              : "Postdoctoral Research Scientist at the Lamont-Doherty Earth Observatory" # sidebar bio
+  location         : "Palisades, New York"
   employer         : # "PIK Potsdam"
-  googlescholar    : "https://scholar.google.com/citations?user=PHdduOoAAAAJ"
-  email            : "julius.garbe@pik-potsdam.de"
-  researchgate     : "https://www.researchgate.net/profile/Julius_Garbe"
-  uri              : "https://www.pik-potsdam.de/members/garbe/"
+  googlescholar    : "https://scholar.google.com/citations?user=dcS9xykAAAAJ&hl=en"
+  email            : "hs3277@columbia.edu"
+  researchgate     : "https://www.researchgate.net/profile/Hillary_Scannell"
+  uri              : "https://ocean-transport.github.io/people.html"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "juliusgarbe"
+  github           : "hscannell"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-3140-3307"
+  orcid            : "https://orcid.org/0000-0002-6604-1695"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
