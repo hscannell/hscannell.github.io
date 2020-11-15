@@ -13,8 +13,7 @@ redirect_from:
 <address>
 Lamont-Doherty Earth Observatory<br />
 61 Rte 9W<br />
-Palisades, NY 10964<br />
-USA
+Palisades, New York 10964<br />
 </address><br />
 
 <iframe src="https://www.google.com/maps/place/Lamont-Doherty+Earth+Observatory/@41.0035658,-73.9090525,15z/data=!4m5!3m4!1s0x0:0x4ff244bfbdaca2f5!8m2!3d41.0035658!4d-73.9090525" width="480" height="360" frameborder="0" style="border:0" allowfullscreen></iframe>
