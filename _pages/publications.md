@@ -18,7 +18,3 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
-## Academic Theses
-{% for post in site.theses reversed %}
-  {% include archive-single.html %}
-{% endfor %}
