@@ -1,7 +1,7 @@
 ---
 title: "Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery"
 collection: publications
-permalink: /publications/pershing_2015.md
+permalink: /publications/pershing_2015
 citation: "Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, <b>H. A. Scannell</b>, J. D. Scott, G. D. Sherwood, and A. C. Thomas (2015), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, <i>Science</i>, 350 (6262): 809-812, DOI: <a href='https://doi.org/10.5194/esd-11-35-2020'>10.1126/science.aac9819</a>"
 
 date: 2005-11-13
