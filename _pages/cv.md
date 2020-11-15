@@ -26,23 +26,23 @@ redirect_from:
 
 
 ## Relevant Research Positions
-**School of Oceanography, University of Washington, Seattle, WA** 
+*School of Oceanography, University of Washington, Seattle, WA*
 - Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)
 
-**National Center for Atmospheric Research, Boulder, CO** 
+*National Center for Atmospheric Research, Boulder, CO* 
 - Graduate Visitor, CISL & CGD (Mar.-June 2020)
 
-**Tableau Software, Seattle, WA** 
+*Tableau Software, Seattle, WA* 
 - Research Intern (June-Aug. 2018)
 
-**NOAA/Pacific Marine Environmental Laboratory, Seattle, WA** 
+*NOAA/Pacific Marine Environmental Laboratory, Seattle, WA*
 - Graduate Research Assistant (Sept. 2015-Dec. 2017)
 
-**Gulf of Maine Research Institute, Portland, ME** 
+*Gulf of Maine Research Institute, Portland, ME* 
 - Graduate Research Associate (Sept. 2013-Mar. 2015)
 - Research Intern (June-Aug. 2013)
 
-**Climate Change Research Center, University of New South Wales, Sydney, Australia** 
+*Climate Change Research Center, University of New South Wales, Sydney, Australia*
 - Visiting Research Fellow (June-Aug. 2014)
 
 ## Awards
