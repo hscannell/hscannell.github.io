@@ -18,19 +18,12 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ## Education
-- **Ph.D. in Oceanography**, School of Oceanography at the University of Washington
-  - *Date:* December 2020
-  - *Doctoral Thesis:* "Seas in hot water — marine heatwaves on the move; following the heat."
-  - *Advisors:* Prof. LuAnne Thompson
+**Ph.D. in Oceanography**, School of Oceanography at the University of Washington (2020)
 
-- **M.S. in Oceanography**, School of Marine Sciences at the University of Maine
-  - *Date:* December 2014
-  - *Master's Thesis:* "Frequency of Marine Heatwaves"
-  - *Advisors:* Dr. Andrew Pershing
+**M.S. in Oceanography**, School of Marine Sciences at the University of Maine (2014)
 
-- **B.S. in Marine Science (major) and Earth Science (minor)**, University of Maine
-  - *Date:* June 2013
-  - *Advisors:* Prof. Emmanuel Boss & Prof. Lawrence Mayer
+**B.S. in Marine Science (major) and Earth Science (minor)**, University of Maine (2013
+
 
 ## Relevant Research Positions
 **School of Oceanography, University of Washington, Seattle, WA** 
