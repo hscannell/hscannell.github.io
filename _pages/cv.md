@@ -54,13 +54,21 @@ redirect_from:
 
 ## Awards
 **2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft 
+
 **2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship
+
 **2019** University of Washington College of the Environment Student Travel Award
+
 **2018/19** Microsoft AI for Earth Azure Compute Grant
+
 **2018** Integral Consulting Inc. Environmental Big Data Research Award
+
 **2017** The New York Times Asia-Pacific Case Competition Winner
+
 **2015/16** University of Washington Program on Climate Change Graduate Fellowship
+
 **2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship
+
 **2012** John H. Dearborn Scientific Diving Scholarship
 
 ## Service, Leadership, and Community Engagement
@@ -103,6 +111,7 @@ Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E.
   - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
 
 **Teaching Assistant**
+
 *School of Oceanography, University of Washington, Seattle, WA*
   - Introduction to Oceanography Lab (2019)
   - Physics Across Oceanography: Fluid Mechanics and Waves (2018)
