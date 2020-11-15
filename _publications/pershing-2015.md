@@ -9,5 +9,5 @@ venue: 'Science'
 
 
 ## Abstract
-<img src="https://science.sciencemag.org/content/sci/350/6262/809/F1.large.jpg?width=800&height=600&carousel=1" style="float: left; margin-right: 10px; width:380px;"> 
+<img src="https://science.sciencemag.org/content/sci/350/6262/809/F1.large.jpg?width=800&height=600&carousel=1" style="float: left; margin-right: 10px; width:320px;"> 
 Several studies have documented fish populations changing in response to long-term warming. Over the past decade, sea surface temperatures in the Gulf of Maine increased faster than 99% of the global ocean. The warming, which was related to a northward shift in the Gulf Stream and to changes in the Atlantic Multidecadal Oscillation and Pacific Decadal Oscillation, led to reduced recruitment and increased mortality in the region’s Atlantic cod (Gadus morhua) stock. Failure to recognize the impact of warming on cod contributed to overfishing. Recovery of this fishery depends on sound management, but the size of the stock depends on future temperature conditions. The experience in the Gulf of Maine highlights the need to incorporate environmental factors into resource management.
