@@ -14,6 +14,7 @@ redirect_from:
 <p><h3 align="center">Curriculum Vitae</h3></p>
 
 <p align="center">{{ site.author.bio }}</p>
+<p align="center">61 Rte 9W, Palisades, NY 10964</p>
 
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
