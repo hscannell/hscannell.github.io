@@ -17,9 +17,9 @@ redirect_from:
 
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}" target="_blank">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">@{{ site.author.twitter }}</a></p>
 
-
-## Education 
 ---
+## Education 
+
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
 **MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
@@ -29,7 +29,7 @@ redirect_from:
 
 ## Relevant Research Positions
 ---
-#### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
+### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
 *Postdoctoral Research Scientist (November 2020 – present)*
 
 **School of Oceanography, University of Washington, Seattle, WA**<br />
