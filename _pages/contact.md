@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 ## Lamont-Doherty Earth Observatory 
-**Climate and Ocean Physics**<br /> 
+**Ocean and Climate Physics**<br /> 
 *61 Rte 9W, Palisades, NY 10964* <br /> 
 <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">Climate Data Science Lab</a><br />
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a href="hs3277@columbia.edu">hs3277@columbia.edu</a><br />
