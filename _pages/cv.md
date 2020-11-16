@@ -29,28 +29,28 @@ redirect_from:
 
 
 
-## Relevant Research Positions
+## Research Experience
 
-### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
+### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
 *Postdoctoral Research Scientist (November 2020 – present)*
 
-**School of Oceanography, University of Washington, Seattle, WA**<br />
+### School of Oceanography, University of Washington, Seattle, WA <br />
 *Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
 
-**National Center for Atmospheric Research, Boulder, CO**<br />
+### National Center for Atmospheric Research, Boulder, CO <br />
 *Graduate Visitor, CISL & CGD (Mar.-June 2020)*
 
-**Tableau Software, Seattle, WA**<br /> 
+### Tableau Software, Seattle, WA <br /> 
 *Research Intern (June-Aug. 2018)*
 
-**NOAA/Pacific Marine Environmental Laboratory, Seattle, WA**<br />
+### NOAA/Pacific Marine Environmental Laboratory, Seattle, WA <br />
 *Graduate Research Assistant (Sept. 2015-Dec. 2017)*
 
-**Gulf of Maine Research Institute, Portland, ME**<br />
+### Gulf of Maine Research Institute, Portland, ME <br />
 *Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
 *Research Intern (June-Aug. 2013)*
 
-**Climate Change Research Center, University of New South Wales, Sydney, Australia**<br />
+### Climate Change Research Center, University of New South Wales, Sydney, Australia <br />
 *Visiting Research Fellow (June-Aug. 2014)*
 
 
