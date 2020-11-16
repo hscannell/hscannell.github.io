@@ -2,7 +2,7 @@
 title: "Drivers and impacts of the most extreme marine heatwave events"
 collection: publications
 permalink: /publications/gupta-2020
-citation: "Sen Gupta, A., Thomsen, M., Benthuysen, J. A., Hobday, A. J., Oliver, E. C. J., Alexander, L. V., Burrows, M. T., Donat, M. G., Feng, M., Holbrook, N. J., Perkins-Kirkpatrick, S., Moore, P. J., Rodrigues, R. R., <b>Scannell, H. A.</b>, Taschetto, A. S., Ummenhofer, C. C., Wernberg, T. & Smale, D. A.  (2020), Drivers and impacts of the most extreme marine heatwaves events, <i>Sci. Rep.</i>, 10, 19359, DOI: <a href='https://doi.org/10.1038/s41598-020-75445-3' target='_blank'>10.1038/s41598-020-75445-3</a>"
+citation: "Sen Gupta, A., Thomsen, M., Benthuysen, J. A., Hobday, A. J., Oliver, E. C. J., Alexander, L. V., Burrows, M. T., Donat, M. G., Feng, M., Holbrook, N. J., Perkins-Kirkpatrick, S., Moore, P. J., Rodrigues, R. R., <b>Scannell, H. A.</b>, Taschetto, A. S., Ummenhofer, C. C., Wernberg, T., & Smale, D. A. (2020), Drivers and impacts of the most extreme marine heatwaves events, <i>Sci. Rep.</i>, 10, 19359, DOI: <a href='https://doi.org/10.1038/s41598-020-75445-3' target='_blank'>10.1038/s41598-020-75445-3</a>"
 date: 2020-11-09
 venue: 'Scientific Reports'
 ---
