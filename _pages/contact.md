@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Lamont-Doherty Earth Observatory 
+## Lamont-Doherty Earth Observatory at Columbia University
 **Ocean and Climate Physics**<br /> 
 *61 Rte 9W, Palisades, NY 10964* <br /> 
 <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">Climate Data Science Lab</a><br />
