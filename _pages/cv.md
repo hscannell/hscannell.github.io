@@ -37,31 +37,31 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **National Center for Atmospheric Research, Boulder, CO** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Visitor, CISL & CGD (Mar.-June 2020)*
 
-### Tableau Software, Seattle, WA <br /> 
-*Research Intern (June-Aug. 2018)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tableau Software, Seattle, WA** <br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Intern (June-Aug. 2018)*
 
-### NOAA/Pacific Marine Environmental Laboratory, Seattle, WA <br />
-*Graduate Research Assistant (Sept. 2015-Dec. 2017)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **NOAA/Pacific Marine Environmental Laboratory, Seattle, WA** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Research Assistant (Sept. 2015-Dec. 2017)*
 
-### Gulf of Maine Research Institute, Portland, ME <br />
-*Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
-*Research Intern (June-Aug. 2013)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Gulf of Maine Research Institute, Portland, ME** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Intern (June-Aug. 2013)*
 
-### Climate Change Research Center, University of New South Wales, Sydney, Australia <br />
-*Visiting Research Fellow (June-Aug. 2014)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Climate Change Research Center, University of New South Wales, Sydney, Australia** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visiting Research Fellow (June-Aug. 2014)*
 
 
 ## Awards
 
-**2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
-**2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
-**2019** University of Washington College of the Environment Student Travel Award<br />
-**2018/19** Microsoft AI for Earth Azure Compute Grant<br />
-**2018** Integral Consulting Inc. Environmental Big Data Research Award<br />
-**2017** The New York Times Asia-Pacific Case Competition Winner<br />
-**2015/16** University of Washington Program on Climate Change Graduate Fellowship<br />
-**2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
-**2012** John H. Dearborn Scientific Diving Scholarship<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2019** University of Washington College of the Environment Student Travel Award<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2018/19** Microsoft AI for Earth Azure Compute Grant<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2018** Integral Consulting Inc. Environmental Big Data Research Award<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017** The New York Times Asia-Pacific Case Competition Winner<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2015/16** University of Washington Program on Climate Change Graduate Fellowship<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2012** John H. Dearborn Scientific Diving Scholarship<br />
 
 
 ## Service, Leadership, & Community Engagement
@@ -78,27 +78,27 @@ redirect_from:
 
 ## Publications
 
-Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
+[11] Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
 
-Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3" target="_blank">10.1038/s41598-020-75445-3</a> 
+[10] Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3" target="_blank">10.1038/s41598-020-75445-3</a> 
 
-Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., doi:<a href="https://doi.org/10.1038/s43017-020-0068-4" target="_blank">10.1038/s43017-020-0068-4</a>
+[9] Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., doi:<a href="https://doi.org/10.1038/s43017-020-0068-4" target="_blank">10.1038/s43017-020-0068-4</a>
 
-Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624, doi:<a href="https://doi.org/10.1038/s41467-019-10206-z" target="_blank">10.1038/s41467-019-10206-z</a>
+[8] Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624, doi:<a href="https://doi.org/10.1038/s41467-019-10206-z" target="_blank">10.1038/s41467-019-10206-z</a>
 
-Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, A. Sen Gupta, B. Payne, and P. J. Moore (**2019**), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, Nat. Clim. Change, 9: 306-312, doi:<a href="https://doi.org/10.1038/s41558-019-0412-1" target="_blank">10.1038/s41558-019-0412-1</a>
+[7] Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, A. Sen Gupta, B. Payne, and P. J. Moore (**2019**), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, Nat. Clim. Change, 9: 306-312, doi:<a href="https://doi.org/10.1038/s41558-019-0412-1" target="_blank">10.1038/s41558-019-0412-1</a>
 
-Scannell, H. A., and M. J. McPhaden (**2018**), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, J. Geophys. Res. Oceans, 123, 5557–5570, doi:<a href="https://doi.org/10.1029/2018JC014099" target="_blank">10.1029/2018JC014099</a>
+[6] Scannell, H. A., and M. J. McPhaden (**2018**), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, J. Geophys. Res. Oceans, 123, 5557–5570, doi:<a href="https://doi.org/10.1029/2018JC014099" target="_blank">10.1029/2018JC014099</a>
 
-Oliver, E. C. J., M. G. Donat, M. T. Burrows, P. J. Moore, D. A. Smale, L. V. Alexander, J. Benthuysen, M. Feng, A. Sen Gupta, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, S. C. Straub, & T. Wernberg (**2018**), Longer and more frequent marine heatwaves over the past century, Nat. Commun., 9: 1324, doi:<a href="https://doi.org/10.1038/s41467-018-03732-9" target="_blank">10.1038/s41467-018-03732-9</a>
+[5] Oliver, E. C. J., M. G. Donat, M. T. Burrows, P. J. Moore, D. A. Smale, L. V. Alexander, J. Benthuysen, M. Feng, A. Sen Gupta, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, S. C. Straub, & T. Wernberg (**2018**), Longer and more frequent marine heatwaves over the past century, Nat. Commun., 9: 1324, doi:<a href="https://doi.org/10.1038/s41467-018-03732-9" target="_blank">10.1038/s41467-018-03732-9</a>
 
-Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2016**), Response to Comments on “Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery”, Science, 352 (6284): 423, doi:<a href="https://doi.org/10.1126/science.aae0463" target="_blank">10.1126/science.aae0463</a>
+[4] Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2016**), Response to Comments on “Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery”, Science, 352 (6284): 423, doi:<a href="https://doi.org/10.1126/science.aae0463" target="_blank">10.1126/science.aae0463</a>
 
-Scannell, H. A., A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills (**2016**), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, Geophys. Res. Lett., 43, doi:<a href="https://doi.org/10.1002/2015GL067308" target="_blank">10.1002/2015GL0673083</a>
+[3] Scannell, H. A., A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills (**2016**), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, Geophys. Res. Lett., 43, doi:<a href="https://doi.org/10.1002/2015GL067308" target="_blank">10.1002/2015GL0673083</a>
 
-Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, H. A. Scannell, A. Sen Gupta and T. Wernberg (**2016**), A hierarchical approach to defining marine heatwaves, Prog. Oceanogr., 141: 227-238, doi:<a href="https://doi.org/10.1016/j.pocean.2015.12.014" target="_blank">10.1016/j.pocean.2015.12.014</a>
+[2] Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, H. A. Scannell, A. Sen Gupta and T. Wernberg (**2016**), A hierarchical approach to defining marine heatwaves, Prog. Oceanogr., 141: 227-238, doi:<a href="https://doi.org/10.1016/j.pocean.2015.12.014" target="_blank">10.1016/j.pocean.2015.12.014</a>
 
-Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac9819" target="_blank">10.1126/science.aac9819</a>
+[1] Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac9819" target="_blank">10.1126/science.aac9819</a>
 
   
 ## Teaching
