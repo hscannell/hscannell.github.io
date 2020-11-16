@@ -32,7 +32,7 @@ redirect_from:
 *Postdoctoral Research Scientist (November 2020 – present)*
 
 ### School of Oceanography, University of Washington, Seattle, WA <br />
-*Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
+*Graduate Research and Teaching Assistant (Sept. 2015–Oct. 2020)*
 
 ### National Center for Atmospheric Research, Boulder, CO <br />
 *Graduate Visitor, CISL & CGD (Mar.-June 2020)*
