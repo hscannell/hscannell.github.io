@@ -2,7 +2,7 @@
 title: "Longer and more frequent marine heatwaves over the past century"
 collection: publications
 permalink: /publications/oliver-2018
-citation: "Oliver, E. C. J., M. G. Donat, M. T. Burrows, P. J. Moore, D. A. Smale, L. V. Alexander, J. Benthuysen, M. Feng, A. Sen Gupta, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, <b>H. A. Scannell</b>, S. C. Straub, and T. Wernberg (2018), Longer and more frequent marine heatwaves over the past century, <i>Nat. Commun.</i>, 9: 1324, DOI: <a href='https://doi.org/10.1038/s41467-018-03732-9' target='_blank'>10.1038/s41467-018-03732-9</a>"
+citation: "Oliver, E. C. J., Donat, M. G., Burrows, M. T., Moore, P. J., Smale, D. A., Alexander, L. V., Benthuysen, J., Feng, M., Sen Gupta, A., Hobday, A. J., Holbrook, N. J., Perkins-Kirkpatrick, S. E., <b>Scannell, H. A.</b>, Straub, S. C., & Wernberg, T. (2018), Longer and more frequent marine heatwaves over the past century, <i>Nat. Commun.</i>, 9: 1324, DOI: <a href='https://doi.org/10.1038/s41467-018-03732-9' target='_blank'>10.1038/s41467-018-03732-9</a>"
 date: 2018-04-10
 venue: 'Nature Communications'
 ---
