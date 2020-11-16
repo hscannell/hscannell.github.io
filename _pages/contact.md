@@ -1,6 +1,5 @@
 ---
 permalink: /contact/
-title: "Contact"
 excerpt: "Contact details and some links."
 author_profile: true
 redirect_from: 
@@ -9,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Lamont-Doherty Earth Observatory 
+## Lamont-Doherty Earth Observatory 
 **Climate and Ocean Physics**
 <address>
 61 Rte 9W, Palisades, NY 10964<br /> </address><br />
