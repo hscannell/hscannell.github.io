@@ -70,18 +70,18 @@ redirect_from:
 - Graduate Student Steering Committee for the Program on Climate Change, University of Washington, **2016-2018** 
 - Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
 - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
-- Contributing Author, Oceanbites, https://oceanbites.org,  **2014-2015**   
+- Contributing Author, Oceanbites, <a href="https://oceanbites.org">oceanbites.org</a>,  **2014-2015**   
 - Reviewer: Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate
 
 
 ## Publications
-Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted; https://doi.org/10.1029/2020GL090548
+Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, DOI:<a href="https://doi.org/10.1029/2020GL090548">10.1029/2020GL090548</a>
 
-Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, https://doi.org/10.1038/s41598-020-75445-3
+Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, DOI:<a href="https://doi.org/10.1038/s41598-020-75445-3">10.1038/s41598-020-75445-3</a> 
 
-Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., https://doi.org/10.1038/s43017-020-0068-4
+Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., DOI:<a href="https://doi.org/10.1038/s43017-020-0068-4">10.1038/s43017-020-0068-4</a>
 
-Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624,  https://doi:10.1038/s41467-019-10206-z
+Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624, DOI:<a href="https://doi.org/10.1038/s41467-019-10206-z">10.1038/s41467-019-10206-z</a>
 
 Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, A. Sen Gupta, B. Payne, and P. J. Moore (**2019**), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, Nat. Clim. Change, 9: 306-312, doi:10.1038/s41558-019-0412-1
 
@@ -103,6 +103,7 @@ Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E.
   - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
 
 **Teaching Assistant** 
+
 *School of Oceanography, University of Washington, Seattle, WA*
   - Introduction to Oceanography Lab (2019)
   - Physics Across Oceanography: Fluid Mechanics and Waves (2018)
