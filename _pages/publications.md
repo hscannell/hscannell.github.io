@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Peer-Reviewed Publications
+## Peer-Reviewed 
 {% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
-  You can also find my articles on: <a href="{{ site.author.researchgate }}">ResearchGate</a> &#124; <a href="{{ site.author.googlescholar }}">Google Scholar</a> &#124; <a href="{{ site.author.orcid }}">ORCID</a>
+  You can also find my articles on: <a href="{{ site.author.researchgate }}">ResearchGate</a> &#124; <a href="{{ site.author.googlescholar }}">Google Scholar</a>  &#124; <a href="{{ site.author.orcid }}">ORCID</a>
 {% endif %}
 
 {% for post in site.publications reversed %}
