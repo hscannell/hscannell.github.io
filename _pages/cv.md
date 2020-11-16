@@ -56,10 +56,10 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020** &#124; AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020** &#124; National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2019** &#124; University of Washington College of the Environment Student Travel Award<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2018–2019** &#124; Microsoft AI for Earth Azure Compute Grant<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2018** &#124; Microsoft AI for Earth Azure Compute Grant<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2018** &#124; Integral Consulting Inc. Environmental Big Data Research Award<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017** &#124; The New York Times Asia-Pacific Case Competition Winner<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2015–2016** &#124; University of Washington Program on Climate Change Graduate Fellowship<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2015** &#124; University of Washington Program on Climate Change Graduate Fellowship<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2014** &#124; National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2012** &#124; John H. Dearborn Scientific Diving Scholarship<br />
 
