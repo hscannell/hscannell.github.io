@@ -2,7 +2,7 @@
 title: "A global assessment of marine heatwaves and their drivers"
 collection: publications
 permalink: /publications/holbrook-2019
-citation: "Holbrook, N. J., <b>H. A. Scannell</b>, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (2019), A global assessment of marine heatwaves and their drivers, <i>Nat. Commun.</i>, 10: 2624, DOI: <a href='https://doi.org/10.1038/s41467-019-10206-z' target='_blank'>10.1038/s41467-019-10206-z</a>"
+citation: "Holbrook, N. J., <b>Scannell, H. A.</b>, Sen Gupta, A., Benthuysen, J. A., Feng, M., Oliver, E. C. J., Alexander, L. V., Burrows, M. T., Donat, M. G., Hobday, A. J., Moore, P. J., Perkins-Kirkpatrick, S. E., Smale, D. A., Straub, S. C., & Wernberg, T. (2019), A global assessment of marine heatwaves and their drivers, <i>Nat. Commun.</i>, 10: 2624, DOI: <a href='https://doi.org/10.1038/s41467-019-10206-z' target='_blank'>10.1038/s41467-019-10206-z</a>"
 date: 2019-06-14
 venue: 'Nature Communications'
 ---
