@@ -2,7 +2,7 @@
 title: "Marine heatwaves threaten global biodiversity and the provision of ecosystem services"
 collection: publications
 permalink: /publications/smale-2019
-citation: "Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, <b>H. A. Scannell</b>, A. Sen Gupta, B. Payne, and P. J. Moore (2019), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, <i>Nat. Clim. Change</i>, 9: 306-312, DOI: <a href='https://doi.org/10.1038/s41558-019-0412-1' target='_blank'>10.1038/s41558-019-0412-1</a>"
+citation: "Smale, D. A., Wernberg, T., Oliver, E. C. J., Thomsen, M., Harvey, B. P., Straub, S. C., Burrows, M. T., Alexander, L. V., Benthuysen, J. A., Donat, M. G., Feng, M., Hobday, A. J., Holbrook, N. J., Perkins-Kirkpatrick, S. E., <b>Scannell, H. A.</b>, Sen Gupta, A., Payne, B., & Moore, P. J. (2019), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, <i>Nat. Clim. Change</i>, 9: 306-312, DOI: <a href='https://doi.org/10.1038/s41558-019-0412-1' target='_blank'>10.1038/s41558-019-0412-1</a>"
 date: 2019-03-04
 venue: 'Nature Climate Change'
 ---
