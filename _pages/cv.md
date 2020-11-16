@@ -67,7 +67,7 @@ redirect_from:
 **2012** John H. Dearborn Scientific Diving Scholarship<br />
 
 
-> ## Service, Leadership, and Community Engagement
+> ## Service, Leadership, & Community Engagement
 
 - Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
 - Session Co-Chair, Marine heatwaves and ocean biogeochemical extremes, Ocean Sciences Meeting, San Diego, CA, **2020**
