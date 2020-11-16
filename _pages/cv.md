@@ -15,10 +15,10 @@ redirect_from:
 
 <p align="center">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; 
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ---
-## &#124; Education 
+## Education 
 
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
@@ -28,7 +28,7 @@ redirect_from:
 
 
 ---
-## &#124; Relevant Research Positions
+## Relevant Research Positions
 
 ### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
 *Postdoctoral Research Scientist (November 2020 – present)*
