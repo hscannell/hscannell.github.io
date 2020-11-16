@@ -18,9 +18,8 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 
-<span style="color:blue">## Education</span>.
 
-<span style="font-size:40px;" style="color:blue"> *Education* </span>
+<span style="font-size:60px;" style="color:blue"> **Education** </span>
 
 ## Education 
 
