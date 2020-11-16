@@ -74,7 +74,7 @@ redirect_from:
 - Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
 - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
 - Contributing Author, Oceanbites, <a href="https://oceanbites.org" target="_blank">oceanbites.org</a>,  **2014-2015**   
-- Reviewer: Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate
+- Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate</i>
 
 
 ## Publications
