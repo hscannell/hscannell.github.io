@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-<span style="font-size:800px;" style="color:#13C0F7"> **Education** </span>
+<span style="font-size:1000px;" style="font-family:verdana" style="color:#5DADE2"> **Education** </span>
 
 ## Education 
 
