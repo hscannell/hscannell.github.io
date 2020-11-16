@@ -15,10 +15,10 @@ redirect_from:
 
 <p align="center">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}" target="_blank">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">@{{ site.author.twitter }}</a></p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; 
 
 ---
-## Education 
+## Education &#124; 
 
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
