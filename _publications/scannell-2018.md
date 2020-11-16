@@ -2,7 +2,7 @@
 title: "Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic"
 collection: publications
 permalink: /publications/scannell-2018
-citation: "<b>Scannell, H. A.</b>, and M. J. McPhaden (2018), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, <i>J. Geophys. Res. Oceans</i>, 123, 5557–5570, DOI: <a href='https://doi.org/10.1029/2018JC014099' target='_blank'>10.1029/2018JC014099</a>"
+citation: "<b>Scannell, H. A.</b>, & McPhaden, M. J. (2018), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, <i>J. Geophys. Res. Oceans</i>, 123, 5557–5570, DOI: <a href='https://doi.org/10.1029/2018JC014099' target='_blank'>10.1029/2018JC014099</a>"
 date: 2018-07-17
 venue: 'Journal of Geophysical Research: Oceans'
 ---
