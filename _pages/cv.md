@@ -15,7 +15,7 @@ redirect_from:
 
 <p align="center">{{ site.author.bio }}</p>
 
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}" target="_blank">https://ocean-transport.github.io/people.html</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}" target="_blank">@{{ site.author.twitter }}</a></p>
 
 
 ## Education 
@@ -70,30 +70,30 @@ redirect_from:
 - Graduate Student Steering Committee for the Program on Climate Change, University of Washington, **2016-2018** 
 - Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
 - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
-- Contributing Author, Oceanbites, <a href="https://oceanbites.org">oceanbites.org</a>,  **2014-2015**   
+- Contributing Author, Oceanbites, <a href="https://oceanbites.org" target="_blank">oceanbites.org</a>,  **2014-2015**   
 - Reviewer: Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate
 
 
 ## Publications
-Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548">10.1029/2020GL090548</a>
+Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
 
-Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3">10.1038/s41598-020-75445-3</a> 
+Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3" target="_blank">10.1038/s41598-020-75445-3</a> 
 
-Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., doi:<a href="https://doi.org/10.1038/s43017-020-0068-4">10.1038/s43017-020-0068-4</a>
+Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., doi:<a href="https://doi.org/10.1038/s43017-020-0068-4" target="_blank">10.1038/s43017-020-0068-4</a>
 
-Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624, doi:<a href="https://doi.org/10.1038/s41467-019-10206-z">10.1038/s41467-019-10206-z</a>
+Holbrook, N. J., H. A. Scannell, A. Sen Gupta, J. A. Benthuysen, M. Feng, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, A. J. Hobday, P. J. Moore, S. E. Perkins-Kirkpatrick, D. A. Smale, S. C. Straub, and T. Wernberg (**2019**), A global assessment of marine heatwaves and their drivers, Nat. Commun., 10: 2624, doi:<a href="https://doi.org/10.1038/s41467-019-10206-z" target="_blank">10.1038/s41467-019-10206-z</a>
 
-Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, A. Sen Gupta, B. Payne, and P. J. Moore (**2019**), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, Nat. Clim. Change, 9: 306-312, doi:<a href="https://doi.org/10.1038/s41558-019-0412-1">10.1038/s41558-019-0412-1</a>
+Smale, D. A., T. Wernberg, E. C. J. Oliver, M. Thomsen, B. P. Harvey, S. C. Straub, M. T. Burrows, L. V. Alexander, J. A. Benthuysen, M. G. Donat, M. Feng, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, A. Sen Gupta, B. Payne, and P. J. Moore (**2019**), Marine heatwaves threaten global biodiversity and the provision of ecosystem services, Nat. Clim. Change, 9: 306-312, doi:<a href="https://doi.org/10.1038/s41558-019-0412-1" target="_blank">10.1038/s41558-019-0412-1</a>
 
-Scannell, H. A., and M. J. McPhaden (**2018**), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, J. Geophys. Res. Oceans, 123, 5557–5570, doi:<a href="https://doi.org/10.1029/2018JC014099">10.1029/2018JC014099</a>
+Scannell, H. A., and M. J. McPhaden (**2018**), Seasonal mixed layer temperature balance in the Southeastern Tropical Atlantic, J. Geophys. Res. Oceans, 123, 5557–5570, doi:<a href="https://doi.org/10.1029/2018JC014099" target="_blank">10.1029/2018JC014099</a>
 
-Oliver, E. C. J., M. G. Donat, M. T. Burrows, P. J. Moore, D. A. Smale, L. V. Alexander, J. Benthuysen, M. Feng, A. Sen Gupta, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, S. C. Straub, & T. Wernberg (**2018**), Longer and more frequent marine heatwaves over the past century, Nat. Commun., 9: 1324, doi:<a href="https://doi.org/10.1038/s41467-018-03732-9">10.1038/s41467-018-03732-9</a>
+Oliver, E. C. J., M. G. Donat, M. T. Burrows, P. J. Moore, D. A. Smale, L. V. Alexander, J. Benthuysen, M. Feng, A. Sen Gupta, A. J. Hobday, N. J. Holbrook, S. E. Perkins-Kirkpatrick, H. A. Scannell, S. C. Straub, & T. Wernberg (**2018**), Longer and more frequent marine heatwaves over the past century, Nat. Commun., 9: 1324, doi:<a href="https://doi.org/10.1038/s41467-018-03732-9" target="_blank">10.1038/s41467-018-03732-9</a>
 
-Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2016**), Response to Comments on “Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery”, Science, 352 (6284): 423, doi:<a href="https://doi.org/10.1126/science.aae0463">10.1126/science.aae0463</a>
+Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2016**), Response to Comments on “Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery”, Science, 352 (6284): 423, doi:<a href="https://doi.org/10.1126/science.aae0463" target="_blank">10.1126/science.aae0463</a>
 
-Scannell, H. A., A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills (**2016**), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, Geophys. Res. Lett., 43, doi:<a href="https://doi.org/10.1002/2015GL067308">10.1002/2015GL0673083</a>
+Scannell, H. A., A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills (**2016**), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, Geophys. Res. Lett., 43, doi:<a href="https://doi.org/10.1002/2015GL067308" target="_blank">10.1002/2015GL0673083</a>
 
-Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, H. A. Scannell, A. Sen Gupta and T. Wernberg (**2016**), A hierarchical approach to defining marine heatwaves, Prog. Oceanogr., 141: 227-238, doi:<a href="https://doi.org/10.1016/j.pocean.2015.12.014">10.1016/j.pocean.2015.12.014</a>
+Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, H. A. Scannell, A. Sen Gupta and T. Wernberg (**2016**), A hierarchical approach to defining marine heatwaves, Prog. Oceanogr., 141: 227-238, doi:<a href="https://doi.org/10.1016/j.pocean.2015.12.014" target="_blank">10.1016/j.pocean.2015.12.014</a>
 
 Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac9819" target="_blank">10.1126/science.aac9819</a>
 
