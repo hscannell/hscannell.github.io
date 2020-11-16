@@ -28,7 +28,7 @@ redirect_from:
 
 ## Research Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lamont-Doherty Earth Observatory, Palisades, NY** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Postdoctoral Research Scientist (Nov. 2020 – present)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School of Oceanography, University of Washington, Seattle, WA** <br />
