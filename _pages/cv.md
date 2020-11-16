@@ -95,7 +95,7 @@ Scannell, H. A., A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills 
 
 Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Benthuysen, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, P. J. Moore, E. C. J. Oliver, H. A. Scannell, A. Sen Gupta and T. Wernberg (**2016**), A hierarchical approach to defining marine heatwaves, Prog. Oceanogr., 141: 227-238, doi:<a href="https://doi.org/10.1016/j.pocean.2015.12.014">10.1016/j.pocean.2015.12.014</a>
 
-Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac98194">10.1126/science.aac9819</a>
+Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac9819" target="_blank">10.1126/science.aac9819</a>
 
   
 ## Teaching
