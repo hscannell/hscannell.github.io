@@ -29,7 +29,7 @@ redirect_from:
 
 ## Relevant Research Positions
 ---
-**Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY**<br />
+#### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
 *Postdoctoral Research Scientist (November 2020 – present)*
 
 **School of Oceanography, University of Washington, Seattle, WA**<br />
