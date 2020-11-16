@@ -29,7 +29,7 @@ redirect_from:
 ## Research Experience
 
 ### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
-*Postdoctoral Research Scientist (November 2020 – present)*
+*Postdoctoral Research Scientist (Nov. 2020 – present)*
 
 ### School of Oceanography, University of Washington, Seattle, WA <br />
 *Graduate Research and Teaching Assistant (Sept. 2015–Oct. 2020)*
