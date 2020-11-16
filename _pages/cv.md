@@ -18,7 +18,7 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; 
 
 ---
-## Education &#124; 
+## &#124; Education 
 
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
@@ -27,8 +27,9 @@ redirect_from:
 **BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
 
 
-## Relevant Research Positions
 ---
+## &#124; Relevant Research Positions
+
 ### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY<br />
 *Postdoctoral Research Scientist (November 2020 – present)*
 
