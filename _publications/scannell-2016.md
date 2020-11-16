@@ -2,7 +2,7 @@
 title: "Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950"
 collection: publications
 permalink: /publications/scannell-2016
-citation: "<b>Scannell, H. A.</b>, A. J. Pershing, M. A. Alexander, A. C. Thomas, and K. E. Mills (2016), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, <i>Geophys. Res. Lett.</i>, 43, DOI:<a href='https://doi.org/10.1002/2015GL067308' target='_blank'>10.1002/2015GL067308</a>"
+citation: "<b>Scannell, H. A.</b>, Pershing, A. J., Alexander, M. A., Thomas, A. C., & Mills, K. E. (2016), Frequency of marine heatwaves in the North Atlantic and North Pacific since 1950, <i>Geophys. Res. Lett.</i>, 43, DOI:<a href='https://doi.org/10.1002/2015GL067308' target='_blank'>10.1002/2015GL067308</a>"
 date: 2016-02-11
 venue: 'Geophysical Research Letters'
 ---
