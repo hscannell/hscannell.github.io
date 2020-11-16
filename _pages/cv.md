@@ -18,24 +18,24 @@ redirect_from:
 
 ## Education 
 
-**PhD, Oceanography**, School of Oceanography, University of Washington (2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
-**MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
 
-**BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
 
 
 
 ## Research Experience
 
-### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
-*Postdoctoral Research Scientist (Nov. 2020 – present)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Postdoctoral Research Scientist (Nov. 2020 – present)*
 
-### School of Oceanography, University of Washington, Seattle, WA <br />
-*Graduate Research and Teaching Assistant (Sept. 2015–Oct. 2020)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School of Oceanography, University of Washington, Seattle, WA** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Research and Teaching Assistant (Sept. 2015–Oct. 2020)*
 
-### National Center for Atmospheric Research, Boulder, CO <br />
-*Graduate Visitor, CISL & CGD (Mar.-June 2020)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **National Center for Atmospheric Research, Boulder, CO** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Visitor, CISL & CGD (Mar.-June 2020)*
 
 ### Tableau Software, Seattle, WA <br /> 
 *Research Intern (June-Aug. 2018)*
