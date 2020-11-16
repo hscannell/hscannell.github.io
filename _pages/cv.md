@@ -21,62 +21,62 @@ redirect_from:
 
 ## Education 
 
->> **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
+**PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
->> **MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
+**MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
 
->> **BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
+**BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
 
 
 
 ## Research Experience
 
->> ### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
->> *Postdoctoral Research Scientist (November 2020 – present)*
+### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
+*Postdoctoral Research Scientist (November 2020 – present)*
 
->> ### School of Oceanography, University of Washington, Seattle, WA <br />
->> *Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
+### School of Oceanography, University of Washington, Seattle, WA <br />
+*Graduate Research and Teaching Assistant (Sept. 2015–Dec. 2020)*
 
->> ### National Center for Atmospheric Research, Boulder, CO <br />
->> *Graduate Visitor, CISL & CGD (Mar.-June 2020)*
+### National Center for Atmospheric Research, Boulder, CO <br />
+*Graduate Visitor, CISL & CGD (Mar.-June 2020)*
 
->> ### Tableau Software, Seattle, WA <br /> 
->> *Research Intern (June-Aug. 2018)*
+### Tableau Software, Seattle, WA <br /> 
+*Research Intern (June-Aug. 2018)*
 
->> ### NOAA/Pacific Marine Environmental Laboratory, Seattle, WA <br />
->> *Graduate Research Assistant (Sept. 2015-Dec. 2017)*
+### NOAA/Pacific Marine Environmental Laboratory, Seattle, WA <br />
+*Graduate Research Assistant (Sept. 2015-Dec. 2017)*
 
->> ### Gulf of Maine Research Institute, Portland, ME <br />
->> *Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
->> *Research Intern (June-Aug. 2013)*
+### Gulf of Maine Research Institute, Portland, ME <br />
+*Graduate Research Associate (Sept. 2013-Mar. 2015)*<br />
+*Research Intern (June-Aug. 2013)*
 
->> ### Climate Change Research Center, University of New South Wales, Sydney, Australia <br />
->> *Visiting Research Fellow (June-Aug. 2014)*
+### Climate Change Research Center, University of New South Wales, Sydney, Australia <br />
+*Visiting Research Fellow (June-Aug. 2014)*
 
 
 ## Awards
 
->> **2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
->> **2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
->> **2019** University of Washington College of the Environment Student Travel Award<br />
->> **2018/19** Microsoft AI for Earth Azure Compute Grant<br />
->> **2018** Integral Consulting Inc. Environmental Big Data Research Award<br />
->> **2017** The New York Times Asia-Pacific Case Competition Winner<br />
->> **2015/16** University of Washington Program on Climate Change Graduate Fellowship<br />
->> **2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
->> **2012** John H. Dearborn Scientific Diving Scholarship<br />
+**2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
+**2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
+**2019** University of Washington College of the Environment Student Travel Award<br />
+**2018/19** Microsoft AI for Earth Azure Compute Grant<br />
+**2018** Integral Consulting Inc. Environmental Big Data Research Award<br />
+**2017** The New York Times Asia-Pacific Case Competition Winner<br />
+**2015/16** University of Washington Program on Climate Change Graduate Fellowship<br />
+**2014** National Science Foundation East Asia and Pacific Summer Institutes Fellowship<br />
+**2012** John H. Dearborn Scientific Diving Scholarship<br />
 
 
 ## Service, Leadership, and Community Engagement
 
->> - Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
->> - Session Co-Chair, Marine heatwaves and ocean biogeochemical extremes, Ocean Sciences Meeting, San Diego, CA, **2020**
->> - Program Committee, Climate Change AI Workshop, Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, B.C., Canada, **2019**
->> - Graduate Student Steering Committee for the Program on Climate Change, University of Washington, **2016-2018** 
->> - Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
->> - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
->> - Contributing Author, Oceanbites, <a href="https://oceanbites.org" target="_blank">oceanbites.org</a>,  **2014-2015**   
->> - Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate</i>
+- Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
+- Session Co-Chair, Marine heatwaves and ocean biogeochemical extremes, Ocean Sciences Meeting, San Diego, CA, **2020**
+- Program Committee, Climate Change AI Workshop, Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, B.C., Canada, **2019**
+- Graduate Student Steering Committee for the Program on Climate Change, University of Washington, **2016-2018** 
+- Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
+- Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
+- Contributing Author, Oceanbites, <a href="https://oceanbites.org" target="_blank">oceanbites.org</a>,  **2014-2015**   
+- Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate</i>
 
 
 ## Publications
@@ -106,18 +106,18 @@ Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E.
   
 ## Teaching
 
->> **Outdoor School Instructor/Guide**, REI, Seattle, WA (May 2019- Feb 2020)
->>   - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
+**Outdoor School Instructor/Guide**, REI, Seattle, WA (May 2019- Feb 2020)
+  - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
 
->> **Teaching Assistant** 
+**Teaching Assistant** 
 
->> *School of Oceanography, University of Washington, Seattle, WA*
->>   - Introduction to Oceanography Lab (2019)
->>   - Physics Across Oceanography: Fluid Mechanics and Waves (2018)
->>   - Introduction to Oceanography (2018)
->>   - Coastal Oceanography (2018)
->>   - Methods of Oceanographic Data Analysis (2016)
+*School of Oceanography, University of Washington, Seattle, WA*
+  - Introduction to Oceanography Lab (2019)
+  - Physics Across Oceanography: Fluid Mechanics and Waves (2018)
+  - Introduction to Oceanography (2018)
+  - Coastal Oceanography (2018)
+  - Methods of Oceanographic Data Analysis (2016)
 
->> *School of Marine Sciences, University of Maine, Orono, ME*
->>   - Oceans and Climate Change (2014)
->>   - Integrative Marine Science Seminar II (2013)
+*School of Marine Sciences, University of Maine, Orono, ME*
+  - Oceans and Climate Change (2014)
+  - Integrative Marine Science Seminar II (2013)
