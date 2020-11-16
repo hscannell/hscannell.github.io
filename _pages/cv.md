@@ -18,8 +18,8 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 
-
-> ## Education 
+<span style="color:blue">some *blue* text</span>.
+## Education 
 
 **PhD, Oceanography**, School of Oceanography, University of Washington (2020)
 
@@ -29,7 +29,7 @@ redirect_from:
 
 
 
-> ## Research Experience
+## Research Experience
 
 ### Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY <br />
 *Postdoctoral Research Scientist (November 2020 – present)*
@@ -54,7 +54,7 @@ redirect_from:
 *Visiting Research Fellow (June-Aug. 2014)*
 
 
-> ## Awards
+## Awards
 
 **2020** AI for Earth Innovation Grant, Leonardo DiCaprio Foundation & Microsoft<br /> 
 **2020** National Center for Atmospheric Research Advanced Study Program Grad Fellowship<br />
@@ -67,7 +67,7 @@ redirect_from:
 **2012** John H. Dearborn Scientific Diving Scholarship<br />
 
 
-> ## Service, Leadership, & Community Engagement
+## Service, Leadership, & Community Engagement
 
 - Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
 - Session Co-Chair, Marine heatwaves and ocean biogeochemical extremes, Ocean Sciences Meeting, San Diego, CA, **2020**
@@ -79,7 +79,7 @@ redirect_from:
 - Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate</i>
 
 
-> ## Publications
+## Publications
 
 Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
 
@@ -104,7 +104,7 @@ Hobday, A. J., L. V. Alexander, S. E. Perkins, D. A. Smale, S. C. Straub, J. Ben
 Pershing, A. J., M. A. Alexander, C. M. Hernandez, L. A. Kerr, A. Le Bris, K. E. Mills, J. A. Nye, N. R. Record, H. A. Scannell, J. D. Scott, G. D. Sherwood, and A. C. Thomas (**2015**), Slow adaptation in the face of rapid warming leads to collapse of the Gulf of Maine cod fishery, Science, 350 (6262): 809-812, doi:<a href="https://doi.org/10.1126/science.aac9819" target="_blank">10.1126/science.aac9819</a>
 
   
-> ## Teaching
+## Teaching
 
 **Outdoor School Instructor/Guide**, REI, Seattle, WA (May 2019- Feb 2020)
   - kayak touring/rescue, stand-up paddle-boarding, road biking, rock climbing
