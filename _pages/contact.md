@@ -14,7 +14,7 @@ redirect_from:
 Lamont-Doherty Earth Observatory<br />
 61 Rte 9W, Palisades, New York 10964<br /> </address><br />
 
-<i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;hs3277 [at] columbia [dot] edu<br />
+<i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;<a href="hs3277@columbia.edu">hs3277@columbia.edu</a><br />
 <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">https://ocean-transport.github.io/people.html</a><br />
 <br />
 
@@ -23,9 +23,6 @@ Lamont-Doherty Earth Observatory<br />
 
 ### Online
 <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a><br />
-<i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.researchgate }}">Hillary_Scannell</a><br />
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="{{ site.author.googlescholar }}">PHdduOoAAAAJ</a><br />
-<i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="{{ site.author.orcid }}">0000-0002-6604-1695</a><br /> 
 <i class="fab fa-github"></i>&nbsp;&nbsp;<a href="https://github.com/{{ site.author.github }}">{{ site.author.github }}</a><br />
 
 <!-- <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
