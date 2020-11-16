@@ -2,7 +2,7 @@
 permalink: /privacy/
 title: "Terms & Privacy Policy"
 excerpt: "Information on privacy policy regarding this website."
-modified: 2020-01-01
+modified: 2020-11-15
 redirect_from:
   - 
 ---
