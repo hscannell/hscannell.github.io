@@ -2,7 +2,7 @@
 title: "Keeping pace with marine heatwaves"
 collection: publications
 permalink: /publications/holbrook-2020
-citation: "Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, <b>H. A. Scannell</b>, D. A. Smale, and T. Wernberg (2020), Keeping pace with marine heatwaves, <i>Nat. Rev. Earth Environ.</i>, DOI: <a href='https://doi.org/10.1038/s43017-020-0068-4' target='_blank'>10.1038/s43017-020-0068-4</a>"
+citation: "Holbrook, N. J., Sen Gupta, A., Oliver, E. C. J., Hobday, A. J., Benthuysen, J. A., <b>Scannell, H. A.</b>, Smale, D. A., & Wernberg, T. (2020), Keeping pace with marine heatwaves, <i>Nat. Rev. Earth Environ.</i>, DOI: <a href='https://doi.org/10.1038/s43017-020-0068-4' target='_blank'>10.1038/s43017-020-0068-4</a>"
 date: 2020-07-28
 venue: 'Nature Reviews Earth & Environment'
 ---
