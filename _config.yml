@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Scientist at the Lamont-Doherty Earth Observatory" # sidebar bio
   location         : "Palisades, New York"
-  employer         : # "PIK Potsdam"
+  employer         : "Columbia University"
   googlescholar    : "https://scholar.google.com/citations?user=dcS9xykAAAAJ&hl=en"
   email            : "hs3277@columbia.edu"
   researchgate     : "https://www.researchgate.net/profile/Hillary_Scannell"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "hillary-scannell"
   orcid            : "https://orcid.org/0000-0002-6604-1695"
   pinterest        :
   soundcloud       :
@@ -260,18 +260,18 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+#   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#   - jekyll-feed
   - jekyll-redirect-from
   #- jekyll-include-cache
   #- jekyll-pdf
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+#   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+#   - jekyll-feed
   - jemoji
 
 
