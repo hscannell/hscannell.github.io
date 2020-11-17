@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Research Manifesto
-<p><img src="/images/rainbow.jpeg" style="float: center; width: 200px"></a></p>
 
+<H3 align="center"> Research Manifesto </H3>
+<p align="center"><img src="/images/rainbow.jpeg" width="100%">
 
 ## Journal Articles
 {% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
