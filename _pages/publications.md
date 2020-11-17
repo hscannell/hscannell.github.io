@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 # Research Manifesto
-<p><img src="/images/rainbow.jpeg" style="float: center; width: 200px"></a>
+<p><img src="/images/rainbow.jpeg" style="float: center; width: 200px"></a></p>
 
 
 ## Journal Articles
