@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Research Manifesto
+<p><img src="/images/rainbow.jpeg" style="float: center; width: 200px"></a>
+
 
 ## Journal Articles
 {% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
