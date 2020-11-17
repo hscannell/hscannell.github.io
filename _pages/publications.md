@@ -11,7 +11,7 @@ redirect_from:
 
 <H3 align="center"> Research Manifesto </H3>
 <p align="center"><img src="/images/rainbow.jpeg" width="100%"></p>
-<p align="center"> <i>I believe in <b>quality</b>, not quantity; <b>reproducibility</b>, not one-and-done; <b>open-source</b>, not proprietary; <b>collaboration</b>, not isolation; <b>inclusivity</b>, not segregation; <b>diversity</b>, not homogenization.</i> </p> </br>
+<p align="center"> <i>I believe in <b>quality</b>, not quantity; <b>reproducibility</b>, not one-and-done; <b>open-source</b>, not proprietary; <b>collaboration</b>, not isolation; <b>inclusivity</b>, not segregation; <b>diversity</b>, not homogenization.</i> </p> 
 
 
 ## Journal Articles
