@@ -2,7 +2,7 @@
 title: "Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific"
 collection: publications
 permalink: /publications/scannell-2020
-citation: "<b>Scannell, H. A.</b>, Johnson, G. C., Thompson, L., Lyman, J. M. & Riser, S. (2020), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, <i>Geophy. Res. Lett.</i>, accepted, DOI: <a href='https://doi.org/10.1029/2020GL090548' target='_blank'>10.1029/2020GL090548</a>"
+citation: "<b>Scannell, H. A.</b>, Johnson, G. C., Thompson, L., Lyman, J. M. & Riser, S. (2020), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, <i>Geophy. Res. Lett.</i>, in press, DOI: <a href='https://doi.org/10.1029/2020GL090548' target='_blank'>10.1029/2020GL090548</a>"
 date: 2020-11-16
 venue: 'Geophysical Research Letters'
 ---
