@@ -16,5 +16,5 @@ The ocean acts as the largest reservoir of heat in Earth’s climate system and 
 ---
 
 <p align="center"><img src="/images/sst_trend.png" alt="Global Sea Surface Temperature Anomalies" width="100%"></p>
-<figcaption style="text-align: center;">Global monthly mean sea surface temperature anomalies and the long-term trend. Data from the NOAA/NCEI Optimum Interpolation SST dataset.</figcaption>
+<figcaption style="text-align: center;">Global monthly mean sea surface temperature anomalies and the long-term trend. Data from the NOAA OISST dataset.</figcaption>
 
