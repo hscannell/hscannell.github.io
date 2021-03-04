@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://hscannell.github.io/CV/Scannell_CV_March_4_2021.pdf) for a printable version of my full CV. <br /><br /><br /> 
-<a href="https://hscannell.github.io/CV/Scannell_CV_March_4_2021.pdf" target="_blank">here</a>
+Click <a href="https://hscannell.github.io/CV/Scannell_CV_March_4_2021.pdf" target="_blank">here</a> for a printable version of my full CV. <br /><br /><br /> 
+
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 61 Rte 9W, Palisades, NY 10964</p>
