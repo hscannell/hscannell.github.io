@@ -8,7 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
+Click [here](https://hscannell.github.io/CV/Scannell_CV_March_4_2021.pdf) for a printable version of my full CV. <br /><br /><br /> 
+<a href="https://hscannell.github.io/CV/Scannell_CV_March_4_2021.pdf" target="_blank">here</a>
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 61 Rte 9W, Palisades, NY 10964</p>
@@ -28,7 +29,7 @@ redirect_from:
 
 ## Research Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lamont-Doherty Earth Observatory, Palisades, NY** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lamont-Doherty Earth Observatory, Columbia University, Palisades, NY** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Postdoctoral Research Scientist (Nov. 2020 – present)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **School of Oceanography, University of Washington, Seattle, WA** <br />
@@ -66,21 +67,22 @@ redirect_from:
 
 ## Service, Leadership, & Community Engagement
 
-- Session Co-Chair, Marine Heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
+- Program Committee, SciPy Conference, **2021**
+- Session Co-Chair, Marine heatwaves, Program on Climate Change Summer Institute on Climate Extremes, University of Washington, **2020** 
 - Session Co-Chair, Marine heatwaves and ocean biogeochemical extremes, Ocean Sciences Meeting, San Diego, CA, **2020**
 - Program Committee, Climate Change AI Workshop, Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, B.C., Canada, **2019**
 - Graduate Student Steering Committee for the Program on Climate Change, University of Washington, **2016-2018** 
 - Organizing Committee, Program on Climate Change Spring Symposium, University of Washington, **2017–2018**
 - Co-Chair, Graduate Climate Conference, Pack Forest, WA, **2016**
 - Contributing Author, Oceanbites, <a href="https://oceanbites.org" target="_blank">oceanbites.org</a>,  **2014-2015**   
-- Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate</i>
+- Reviewer: <i>Geophysical Research Letters, Journal of Geophysical Research-Oceans, Journal of Climate, Nature Communications Earth & Environment</i>
 
 
 ## Publications
 
-**11** &#124; Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., accepted, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
+**11** &#124; Scannell, H. A., G. C. Johnson, L. Thompson, J. M. Lyman, & S. Riser (**2020**), Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific, Geophys. Res. Lett., 47, e2020GL090548, doi:<a href="https://doi.org/10.1029/2020GL090548" target="_blank">10.1029/2020GL090548</a>
 
-**10** &#124; Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E,C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3" target="_blank">10.1038/s41598-020-75445-3</a> 
+**10** &#124; Sen Gupta, A., M. Thomsen, J. A. Benthuysen, A. J. Hobday, E. C. J. Oliver, L. V. Alexander, M. T. Burrows, M. G. Donat, M. Feng, N. J. Holbrook, S. Perkins-Kirkpatrick, P. J. Moore, R. R. Rodrigues, H. A. Scannell, A. S. Taschetto, C. C. Ummenhofer, T. Wernberg, & D. A. Smale (**2020**), Drivers and impacts of the most extreme marine heatwaves events, Sci. Rep., 10, 19359, doi:<a href="https://doi.org/10.1038/s41598-020-75445-3" target="_blank">10.1038/s41598-020-75445-3</a> 
 
 **9** &#124; Holbrook, N. J., A. Sen Gupta, E. C. J. Oliver, A. J. Hobday, J. A. Benthuysen, H. A. Scannell, D. A. Smale, and T. Wernberg (**2020**), Keeping pace with marine heatwaves, Nat. Rev. Earth Environ., doi:<a href="https://doi.org/10.1038/s43017-020-0068-4" target="_blank">10.1038/s43017-020-0068-4</a>
 
